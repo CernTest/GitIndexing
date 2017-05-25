@@ -22,6 +22,8 @@ namespace GitHubTestingDLL
                     sname2 = result;
                 }
             }
+			
+			Console.WriteLine(s1);
 
             return 0;
         }
