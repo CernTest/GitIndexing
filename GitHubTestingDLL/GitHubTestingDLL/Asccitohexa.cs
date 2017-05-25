@@ -23,7 +23,7 @@ namespace GitHubTestingDLL
                 }
             }
 			
-			Console.WriteLine(s1);
+			Console.WriteLine(S1);
 
             return 0;
         }
